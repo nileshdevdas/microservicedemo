@@ -9,6 +9,6 @@ public class BankApp {
 
 	@RequestMapping(path = "version", method = RequestMethod.GET)
 	public String getVersion() {
-		return "1.0";
+		return "Nilesh Pass Demo 1.0";
 	}
 }
